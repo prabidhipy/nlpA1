@@ -118,3 +118,7 @@ http://127.0.0.1:5000
 * Sentence vectors are computed by **averaging word embeddings**
 * Vectors are normalized so dot product corresponds to cosine similarity
 * Out-of-vocabulary words are safely handled using `<UNK>`
+
+## Project Demonstration
+
+![app demonstration](app-demonstration.png)
